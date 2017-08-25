@@ -1,0 +1,4 @@
+loss decreases 
+val-loss flactuate
+
+car moves smoothly, failure in sharp turns

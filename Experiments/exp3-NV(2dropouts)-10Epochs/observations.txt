@@ -1,0 +1,3 @@
+passed first sharp curve
+failed in the second
+drive on lines sometimes

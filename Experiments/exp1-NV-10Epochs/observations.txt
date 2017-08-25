@@ -1,0 +1,3 @@
+-car deviates to the right 
+-training loss increaes always 
+-validation loss flactuate but overall increases
